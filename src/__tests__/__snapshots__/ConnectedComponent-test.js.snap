@@ -1,0 +1,12 @@
+exports[`test ConnectedComponent renders correctly 1`] = `
+<div>
+  <div>
+    some text
+  </div>
+  <div>
+    <div>
+      some text
+    </div>
+  </div>
+</div>
+`;
